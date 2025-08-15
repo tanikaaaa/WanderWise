@@ -1,6 +1,6 @@
-# 🧠 AI Trip Planner
+# 🧠 WanderWise
 
-AI Trip Planner is a full-stack web application that leverages **Generative AI (Google Gemini)** and **Google Maps APIs** to help users create smart, personalized travel itineraries in seconds. The platform dynamically suggests hotels, attractions, and routes, and stores user data securely using Firebase. With a responsive UI, smooth animations, and real-time map interactions, this app redefines the modern travel planning experience.
+WanderWise is a full-stack web application that leverages **Generative AI (Google Gemini)** and **Google Maps APIs** to help users create smart, personalized travel itineraries in seconds. The platform dynamically suggests hotels, attractions, and routes, and stores user data securely using Firebase. With a responsive UI, smooth animations, and real-time map interactions, this app redefines the modern travel planning experience.
 
 ---
 
@@ -15,14 +15,11 @@ AI Trip Planner is a full-stack web application that leverages **Generative AI (
 
 ---
 
----
-
 ## 🛠️ Tech Stack
 
 ### 📌 Frontend:
 - [React.js](https://reactjs.org/) – UI framework
 - [TailwindCSS](https://tailwindcss.com/) – Utility-first CSS styling
-- [GSAP](https://greensock.com/gsap/) – Animation library
 
 ### 📌 Backend:
 - [Node.js](https://nodejs.org/) – Server runtime
@@ -48,8 +45,6 @@ AI Trip Planner is a full-stack web application that leverages **Generative AI (
 
 ---
 
----
-
 ## ⚙️ Getting Started
 
 ### 🔄 Clone the Repository
@@ -57,4 +52,3 @@ AI Trip Planner is a full-stack web application that leverages **Generative AI (
 ```bash
 git clone https://github.com/tanikaaaa/AI_Trip_Planner.git
 cd AI_Trip_Planner
-
