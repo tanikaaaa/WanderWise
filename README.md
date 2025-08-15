@@ -1,4 +1,4 @@
-# 🧠 WanderWise
+# 🧠 WanderWise - AI Trip Planner
 
 WanderWise is a full-stack web application that uses **Generative AI (Google Gemini)** and **Google Maps APIs** to help users plan smart, personalized travel itineraries in seconds. It suggests hotels, attractions, and routes tailored to the destination and trip duration, while securely storing user data with Firebase. With a clean, responsive interface and real-time map interactions, WanderWise makes trip planning faster, easier, and more enjoyable.
 
@@ -48,4 +48,4 @@ WanderWise is a full-stack web application that uses **Generative AI (Google Gem
 ### 🔄 Clone the Repository
 ```bash
 git clone https://github.com/tanikaaaa/AI_Trip_Planner.git
-cd AI_Trip_Planner
+cd WanderWise
