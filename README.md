@@ -7,7 +7,7 @@
 
 WanderWise is a full-stack AI-powered travel planning application that generates intelligent, personalized itineraries in seconds using **Google Gemini** and real-time location data from **Google Maps APIs**.
 
-It eliminates manual trip research by automatically creating structured, day-wise travel plans with hotels, attractions, and optimized routes — all securely stored using Firebase.
+It eliminates manual trip research by automatically creating structured, day-wise travel plans with hotels, attractions, and optimized routes - all securely stored using Firebase.
 
 > Plan smarter. Travel better. 🌍✨
 
